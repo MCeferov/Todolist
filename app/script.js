@@ -2,7 +2,7 @@
 
 const addBtn = document.getElementById("add");
 const taskListContainer = document.querySelector(".taskList");
-const taskList = document.ATTRIBUTE_NODE.toExponential(".taskList ul");
+const taskList = document.querySelector(".taskList ul");
 const addInput = document.getElementById("input");
 const greet = document.querySelector(".greet");
 const message = document.querySelector(".message");
